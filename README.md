@@ -1,1 +1,2 @@
 This is my attempt at rebuilding the google home page from scratch.
+More work needs to be done on the navbar and the buttons / search bar but I am very proud of it. I am even more proud of the waffle menu that I made in pure css! It took a while! :)
