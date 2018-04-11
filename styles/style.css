@@ -6,6 +6,11 @@ body {
 #navigation {
 	font-size: 13px;
 	color: rgba(0,0,0,0.75);
+	height: 100px;
+}
+
+#meat {
+	margin-top: 75px;
 }
 
 #left-side {
@@ -71,4 +76,48 @@ body {
 	width: 10px;
 	margin-left: 4px;
 	margin-top: 3px;
+}
+
+img {
+	width: 272px;
+	height: 92px;
+	margin: 0 auto;
+	display: block;
+}
+
+.searching {
+	width: 100%;
+	height: 100%;
+	padding-left: 20px;
+	border: 1px solid #e0e0e0;
+}
+
+.search-bar {
+	height: 44px;
+	width: 584px;
+	margin: 0 auto;
+	box-shadow: 1px 1px 1px rgba(0,0,0,0.35);
+	margin-top: 30px;
+}
+
+.buttons {
+	margin: 0 auto;
+	display: block;
+	margin-top: 29px;
+}
+
+.google-search {
+	height: 34px;
+	border: none;
+	background-color: #f2f2f2;
+	padding: 0 16px;
+	margin: 5px;
+}
+
+.lucky {
+	height: 34px;
+	border: none;
+	background-color: #f2f2f2;
+	padding: 0 16px;
+	margin: 5px;
 }
